@@ -17,10 +17,5 @@ GSCore is a core plugin that aims to replace essentials and remove useless funct
 
 ### Support <br>You can ask me for support on discord: **_masecla22#6710_**<br>You can however also ask for support here: [https://discord.gg/FdMjWSP] (Preffered way!)
 <br><br>
-Before you go! My test server was kindly provided by FutureNode! They are an awesome company to work with! If you are looking for a decent host, that actually understands their user, check them out! Here are some useful links!
-
-**Home** -> (https://futurenode.host/) <br>
-**Client Area** -> (https://billing.futurenode.host/)<br>
-**Discord** -> (https://discord.gg/49jtp3C)<br>
 
 
